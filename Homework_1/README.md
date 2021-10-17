@@ -1,0 +1,1 @@
+Интерполяция CFA методом Variable Number of Gradients (VNG)
