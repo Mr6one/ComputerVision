@@ -1,6 +1,6 @@
 import numpy as np
-from utils import pad_image
-from histogram_array import HistogramArray
+from .utils import pad_image
+from .histogram_array import HistogramArray
 
 
 def median_filter(image, R):

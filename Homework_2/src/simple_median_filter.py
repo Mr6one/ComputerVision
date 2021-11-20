@@ -1,5 +1,5 @@
 import numpy as np
-from utils import pad_image
+from .utils import pad_image
 
 
 def countsort(unsorted):
