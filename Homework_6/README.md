@@ -1,0 +1,1 @@
+## Детекция finder pattern-ов
